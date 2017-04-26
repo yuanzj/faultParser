@@ -66,3 +66,8 @@ dependency-reduced-pom.xml
 */.git/
 
 */__.git
+target/classes/
+target/generated-sources/
+target/generated-test-sources/
+target/surefire/
+target/test-classes/
